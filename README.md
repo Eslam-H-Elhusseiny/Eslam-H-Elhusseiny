@@ -1,10 +1,33 @@
+<div align="center">
+  <a href="https://www.linkedin.com/in/eslam-h-elhusseiny/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:eslam.hamed.elhusseiny@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=201274173626" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+</div>
+
 <h1 align="center">Hey 👋, I'm Eslam Elhusseiny</h1>
 <h3 align="center">A Passionate Frontend Developer From Egypt</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Eslam-H-Elhusseiny&label=Profile%20views&color=0e75b6&style=flat" alt="Eslam-H-Elhusseiny" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Eslam-H-Elhusseiny&label=Profile%20views&color=0e75b6&style=flat" alt="Eslam-H-Elhusseiny" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Eslam-H-Elhusseiny&theme=onedark" alt="Eslam-H-Elhusseiny" /></a> </p>
 
 <div> <a href="https://github.com/Eslam-H-Elhusseiny" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">🚀 ITI graduate<br>🌱 I’m currently learning Angular and Nodejs<br>🔥 I'm eager to learn more about frontend development</p>
+
+###
+
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
